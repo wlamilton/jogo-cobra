@@ -11,5 +11,5 @@ Para jogar ele é bem simples,você deve:
 • No computador após apertar “play” e tem a opção de clicar pelo mouse e movê-lo na direção desejada ou então direcionar o personagem pelas setas do teclado.
 
 
-<img src="https://github.com/wlamilton/jogo-cobra/assets/164428034/55633a8c-2d29-41a9-9274-d321725252a7>
->
+<img src="https://github.com/wlamilton/jogo-cobra/assets/164428034/55633a8c-2d29-41a9-9274-d321725252a7">
+
