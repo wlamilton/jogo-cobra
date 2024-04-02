@@ -1,4 +1,3 @@
-https://wlamilton.github.io/jogo-cobra/
  olá! Eu sou o wlamilton
 [!link do jogo]](https://wlamilton.github.io/jogo-cobra/)
 
