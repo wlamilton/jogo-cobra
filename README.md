@@ -17,5 +17,5 @@ Para jogar ele é bem simples,você deve:
 <br>
 <img src="https://github.com/wlamilton/jogo-cobra/assets/164428034/31188ff5-795c-4433-90f1-92e3993c568c">
 <br>
-<img src="https://github.com/wlamilton/jogo-cobra/assets/164428034/36563e3f-3220-4cdd-a445-5ad39f78b9fa">
+<img src="https://github.com/wlamilton/jogo-cobra/assets/164428034/280e6fe2-04ae-465a-9858-721a87a3b4cf">
 
